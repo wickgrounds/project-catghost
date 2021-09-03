@@ -1,2 +1,22 @@
 # project-catghost
-## This is a project that will not be spoiled until it is ready.
+## This is the next phase of WickGrounds development.
+This is the next stage of how WickGrounds Works.
+## What is this?
+If we add Scratch Projects to WickGrounds, this is it!
+## What files are these for?
+Scratch 3.0(.sb3) and Wick editor(.wick) files
+## how do I add them?
+Convert them to html:
+- for Scratch
+
+  You can use: Project HTMLifier :https://sheeptester.github.io/htmlifier/
+(repo: https://github.com/SheepTester/htmlifier) and others
+
+- for Wick:
+  
+  It is built-in: 
+  1. go to export
+  2. go under "Interactive"
+  3. click "Export HTML"
+## What license is this under?
+This is licensed under [LICENSE](the CatGhost License)
