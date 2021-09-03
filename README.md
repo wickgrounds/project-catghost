@@ -19,4 +19,4 @@ Convert them to html:
   2. go under "Interactive"
   3. click "Export HTML"
 ## What license is this under?
-This is licensed under [LICENSE](the CatGhost License)
+This is licensed under https://github.com/wickgrounds/project-catghost/blob/main/LICENSE the CatGhost License
