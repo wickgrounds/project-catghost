@@ -18,5 +18,6 @@ Convert them to html:
   1. go to export
   2. go under "Interactive"
   3. click "Export HTML"
-## What license is this under?
+- we can export them for you 
+# What license is this under?
 This is licensed under https://github.com/wickgrounds/project-catghost/blob/main/LICENSE the CatGhost License
