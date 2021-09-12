@@ -9,8 +9,10 @@ Scratch 3.0(.sb3) and Wick editor(.wick) files
 Convert them to html:
 - for Scratch
 
-  You can use: Project HTMLifier :https://sheeptester.github.io/htmlifier/
-(repo: https://github.com/SheepTester/htmlifier) and others
+We forked two different projects for that:
+  1. forkphorus: (https://github.com/wickgrounds/catghost-forkphorus) https://wickgrounds.github.io/catghost-forkphorus
+  2. project htmlifier: (https://github.com/wickgrounds/catghost-htmlifier) https://wickgrounds.github.io/catghost-htmlifier/
+
 
 - for Wick:
   
