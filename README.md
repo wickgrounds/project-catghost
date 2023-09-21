@@ -10,6 +10,7 @@ Convert them to html:
 - for Scratch
 
 We forked two different projects for that:
+  Right now, Turbowarp packager is recommended
   1. forkphorus: (https://github.com/wickgrounds/catghost-forkphorus) https://wickgrounds.github.io/catghost-forkphorus
   2. project htmlifier: (https://github.com/wickgrounds/catghost-htmlifier) https://wickgrounds.github.io/catghost-htmlifier/
 
